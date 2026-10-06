@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.matplotlib/
+.DS_Store
+outputs/tables/sas_*.csv
+PROJECT_REVIEW.md
+docs/linkedin_post_draft.md
+docs/github_profile_update_proposal.md

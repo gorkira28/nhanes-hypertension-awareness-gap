@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this portfolio analysis, please cite it as below."
+title: "Hidden Hypertension: A Survey-Weighted NHANES Awareness-Gap Analysis"
+type: software
+authors:
+  - family-names: Gor
+    given-names: Kira
+version: 1.0.0
+date-released: 2026-10-06
+license: MIT
+repository-code: "https://github.com/gorkira28/nhanes-hypertension-awareness-gap"
